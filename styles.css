@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(233, 47%, 7%)
+
+}
+.contained{
+    padding: 5% 10%;
+}
+h1>span{
+    color: rgb(194, 137, 235);
+}
+.left_part{
+    background-color:  hsl(244, 38%, 16%);
+
+    width: 100%;
+    height: 100%;
+padding:5% 10% 5% 5%;
+color: white;
+
+}
+.right_part{
+background-color: hsl(277, 64%, 61%);
+    width: 100%;
+height: 442px;
+}
+.right_part>img{
+    opacity: 0.6; 
+    width: 100%;
+    height: 442px;
+
+}
+
